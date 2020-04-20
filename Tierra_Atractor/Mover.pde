@@ -1,7 +1,3 @@
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
-
 class Mover {
 
   PVector position;
