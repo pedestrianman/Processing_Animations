@@ -1,8 +1,3 @@
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
-
-// A class for a draggable attractive body in our world
 PGraphics pg;
 class Attractor {
   float mass;    // Mass, tied to size
